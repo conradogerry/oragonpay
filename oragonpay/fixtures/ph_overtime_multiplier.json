@@ -1,0 +1,232 @@
+[
+ {
+  "code": "SPE OT",
+  "description": "Special Holiday OT",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "SPE OT",
+  "percent": 1.69,
+  "sort_order": 24
+ },
+ {
+  "code": "RST ND OT",
+  "description": "Restday Overtime + ND",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST ND OT",
+  "percent": 1.86,
+  "sort_order": 15
+ },
+ {
+  "code": "RST OT",
+  "description": "Sunday/Restday OT",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST OT",
+  "percent": 1.69,
+  "sort_order": 16
+ },
+ {
+  "code": "RST SPE",
+  "description": "Sunday/Restday + Spe. Hol.",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST SPE",
+  "percent": 1.5,
+  "sort_order": 17
+ },
+ {
+  "code": "RST SPE ND",
+  "description": "Restday/Special Holiday ND",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST SPE ND",
+  "percent": 1.65,
+  "sort_order": 18
+ },
+ {
+  "code": "RST SPE ND OT",
+  "description": "Restday Special Hol + ND+OT",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST SPE ND OT",
+  "percent": 2.15,
+  "sort_order": 19
+ },
+ {
+  "code": "RST SPE OT",
+  "description": "Sunday/Restday + Spe. Hol. OT",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST SPE OT",
+  "percent": 1.95,
+  "sort_order": 20
+ },
+ {
+  "code": "SPE",
+  "description": "Special Holiday",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "SPE",
+  "percent": 1.3,
+  "sort_order": 21
+ },
+ {
+  "code": "SPE ND",
+  "description": "Special Holiday Nigth Diff",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "SPE ND",
+  "percent": 1.43,
+  "sort_order": 22
+ },
+ {
+  "code": "SPE ND OT",
+  "description": "Special Holiday Overtime + ND",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "SPE ND OT",
+  "percent": 1.86,
+  "sort_order": 23
+ },
+ {
+  "code": "RST ND",
+  "description": "Restday + Night Differential",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST ND",
+  "percent": 1.43,
+  "sort_order": 14
+ },
+ {
+  "code": "RST LEG OT",
+  "description": "Sunday/Restday + Legal Hol. OT",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST LEG OT",
+  "percent": 2.38,
+  "sort_order": 13
+ },
+ {
+  "code": "RST LEG ND OT",
+  "description": "Restday + Legal Hol + ND + OT",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST LEG ND OT",
+  "percent": 2.72,
+  "sort_order": 12
+ },
+ {
+  "code": "LEG ND",
+  "description": "Working Holiday + Nigh Diff.",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "LEG ND",
+  "percent": 2.2,
+  "sort_order": 2
+ },
+ {
+  "code": "LEG ND OT",
+  "description": "Legal Holiday Overtime + ND",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "LEG ND OT",
+  "percent": 2.86,
+  "sort_order": 3
+ },
+ {
+  "code": "REG ND",
+  "description": "Night Differential",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "REG ND",
+  "percent": 0.1,
+  "sort_order": 6
+ },
+ {
+  "code": "REG ND OT",
+  "description": "Night Differential + OT",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "REG ND OT",
+  "percent": 1.38,
+  "sort_order": 7
+ },
+ {
+  "code": "RST",
+  "description": "Sunday/Restday",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST",
+  "percent": 1.3,
+  "sort_order": 9
+ },
+ {
+  "code": "RST LEG",
+  "description": "Sunday/Restday + Legal Hol.",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST LEG",
+  "percent": 1.6,
+  "sort_order": 10
+ },
+ {
+  "code": "RST LEG ND",
+  "description": "Restday/Legal Holiday ND",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "RST LEG ND",
+  "percent": 0.26,
+  "sort_order": 11
+ },
+ {
+  "code": "LEG OT",
+  "description": "Legal Holiday OT",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "LEG OT",
+  "percent": 2.6,
+  "sort_order": 4
+ },
+ {
+  "code": "LEG",
+  "description": "Legal Holiday",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "LEG",
+  "percent": 1.0,
+  "sort_order": 1
+ },
+ {
+  "code": "REG OT",
+  "description": "Regular Overtime",
+  "docstatus": 0,
+  "doctype": "PH Overtime Multiplier",
+  "modified": "2024-01-13 21:44:33.974661",
+  "name": "REG OT",
+  "percent": 1.25,
+  "sort_order": 8
+ }
+]
